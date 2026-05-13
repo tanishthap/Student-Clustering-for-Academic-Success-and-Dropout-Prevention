@@ -222,7 +222,10 @@ Overall, the project demonstrates that academic performance variables are the mo
 
 ---
 
+## Final Takeaway Hierarchical Clustering is the best model to use
+Rather than applying a one-size-fits-all approach, universities can use clustering to segment students and deliver targeted, data-driven support, ultimately improving retention rates, academic success, and overall institutional performance.
 
+Ultimately, clustering enables universities to move from reactive responses to proactive, data-driven student success strategies, improving retention, performance, and long-term educational outcomes.
 ---
 
 ## Author
